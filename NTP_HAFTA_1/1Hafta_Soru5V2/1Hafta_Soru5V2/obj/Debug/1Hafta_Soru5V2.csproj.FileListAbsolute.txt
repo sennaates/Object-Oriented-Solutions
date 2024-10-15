@@ -1,0 +1,6 @@
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\bin\Debug\1Hafta_Soru5V2.exe.config
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\bin\Debug\1Hafta_Soru5V2.exe
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\bin\Debug\1Hafta_Soru5V2.pdb
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\obj\Debug\1Hafta_Soru5V2.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\obj\Debug\1Hafta_Soru5V2.exe
+C:\Users\Sena Ateş\source\repos\1Hafta_Soru5V2\1Hafta_Soru5V2\obj\Debug\1Hafta_Soru5V2.pdb
