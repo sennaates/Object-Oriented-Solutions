@@ -1,2 +1,2 @@
-# NTP_HAFTA1_SORULAR
-NTP Dersi ilk hafta ödevi: 5 algoritma sorusu
+# NTP_HAFTALIK_SORULAR
+NTP Dersi içeriğinde her hafta çözdüğüm algoritma soruları
