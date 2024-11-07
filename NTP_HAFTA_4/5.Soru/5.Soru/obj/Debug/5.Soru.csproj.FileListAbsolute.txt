@@ -1,0 +1,7 @@
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\bin\Debug\5.Soru.exe.config
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\bin\Debug\5.Soru.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\bin\Debug\5.Soru.pdb
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\obj\Debug\5.Soru.csprojAssemblyReference.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\obj\Debug\5.Soru.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\obj\Debug\5.Soru.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_4\5.Soru\5.Soru\obj\Debug\5.Soru.pdb
