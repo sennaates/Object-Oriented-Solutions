@@ -1,0 +1,7 @@
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\bin\Debug\1-2_Örnek.exe.config
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\bin\Debug\1-2_Örnek.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\bin\Debug\1-2_Örnek.pdb
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\obj\Debug\1-2_Örnek.csprojAssemblyReference.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\obj\Debug\1-2_Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\obj\Debug\1-2_Örnek.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_5\1-2_Örnek\1-2_Örnek\obj\Debug\1-2_Örnek.pdb
