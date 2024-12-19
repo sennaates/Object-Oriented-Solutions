@@ -1,0 +1,6 @@
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\bin\Debug\KalitimOdev3.exe.config
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\bin\Debug\KalitimOdev3.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\bin\Debug\KalitimOdev3.pdb
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\obj\Debug\KalitimOdev3.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\obj\Debug\KalitimOdev3.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\KalitimOdev3\KalitimOdev3\obj\Debug\KalitimOdev3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\bin\Debug\AbstractClassOdev1.exe.config
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\bin\Debug\AbstractClassOdev1.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\bin\Debug\AbstractClassOdev1.pdb
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\obj\Debug\AbstractClassOdev1.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\obj\Debug\AbstractClassOdev1.exe
+C:\Users\Sena Ateş\source\repos\NTP_HAFTA_7\AbstractClassOdev1\AbstractClassOdev1\obj\Debug\AbstractClassOdev1.pdb
